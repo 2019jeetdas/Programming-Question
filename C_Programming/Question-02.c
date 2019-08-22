@@ -1,4 +1,4 @@
-/*---- Question-[B] : Program for printing ASCII value (without inbuild function) -----*/
+/*---- Question-[02] : Program for printing ASCII value (without inbuild function) -----*/
 
 #include<stdio.h>
 
