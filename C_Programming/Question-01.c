@@ -1,4 +1,4 @@
-/*------- Question-[A] : Program for create student record -----*/
+/*------- Question-[01] : Program for create student record -----*/
 
 
 #include<stdio.h>
